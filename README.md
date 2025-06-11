@@ -5,7 +5,7 @@
 
 ### The `llm_playbooks` library
 
-This library will contain material for the book 'Designing Large Language Model Applications', along with a collection of tools and utils for working with LLMs, that is used across our projects. Full version launching on June 1! Apologies for the delay and thank you for your patience.
+This library will contain material for the book 'Designing Large Language Model Applications', along with a collection of tools and utils for working with LLMs, that is used across our projects. Full version launching on July 1! Apologies for the delay and thank you for your patience.
 
 
 
